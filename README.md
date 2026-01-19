@@ -26,5 +26,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flyde2&show_icons=true&theme=dark)](https://github.com/flyde2/github-readme-stats)
